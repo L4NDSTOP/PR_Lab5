@@ -1,0 +1,14 @@
+[image: Google]
+Изменен номер телефона
+
+
+mihaesdumitru2001@gmail.com
+Кто-то изменил номер телефона для Вашего аккаунта. Если это были не Вы,
+проверьте историю действий.
+Посмотреть действия
+<https://accounts.google.com/AccountChooser?Email=mihaesdumitru2001@gmail.com&continue=https://myaccount.google.com/alert/nt/1684768924578?rfn%3D4%26rfnc%3D1%26eid%3D6065216270012208414%26et%3D0>
+Вы также можете посмотреть действия, связанные с безопасностью, на этой
+странице:
+https://myaccount.google.com/notifications
+Это сообщение о важных изменениях в вашем аккаунте и сервисах Google.
+© 2023 Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA

@@ -1,0 +1,15 @@
+[image: Google]
+Изменен резервный адрес электронной почты для аккаунта
+
+
+mihaesdumitru2001@gmail.com
+Если вы изменили резервный адрес электронной почты, завершите процесс,
+используя код подтверждения, отправленный на новый адрес. Если вы не
+изменяли резервный адрес, проверьте и защитите свой аккаунт.
+Посмотреть действия
+<https://accounts.google.com/AccountChooser?Email=mihaesdumitru2001@gmail.com&continue=https://myaccount.google.com/alert/nt/1684768955996?rfn%3D2%26rfnc%3D1%26eid%3D5293189055333873956%26et%3D0%26anexp%3D-changed_pending_verification>
+Вы также можете посмотреть действия, связанные с безопасностью, на этой
+странице:
+https://myaccount.google.com/notifications
+Это сообщение о важных изменениях в вашем аккаунте и сервисах Google.
+© 2023 Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA

@@ -1,0 +1,16 @@
+[image: Google]
+Создан пароль приложения, который будет использоваться для входа в ваш
+аккаунт
+
+
+mihaesdumitru2001@gmail.com
+Если вы не создавали этот пароль для приложения "Почта на устройстве
+Компьютер Windows", возможно, вашим аккаунтом пользуется кто-то ещё.
+Проверьте и защитите свой аккаунт прямо сейчас.
+Посмотреть действия
+<https://accounts.google.com/AccountChooser?Email=mihaesdumitru2001@gmail.com&continue=https://myaccount.google.com/alert/nt/1684834779445?rfn%3D20%26rfnc%3D1%26eid%3D5246583945759038584%26et%3D0>
+Вы также можете посмотреть действия, связанные с безопасностью, на этой
+странице:
+https://myaccount.google.com/notifications
+Это сообщение о важных изменениях в вашем аккаунте и сервисах Google.
+© 2023 Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA

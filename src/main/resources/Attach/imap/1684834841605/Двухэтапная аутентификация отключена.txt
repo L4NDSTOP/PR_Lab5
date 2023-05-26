@@ -1,0 +1,15 @@
+[image: Google]
+Двухэтапная аутентификация отключена
+
+
+mihaesdumitru2001@gmail.com
+Для защиты Вашего аккаунта больше не используется двухэтапная
+аутентификация. Теперь Вам не нужно проходить второй этап аутентификации
+при входе в аккаунт.
+Посмотреть действия
+<https://accounts.google.com/AccountChooser?Email=mihaesdumitru2001@gmail.com&continue=https://myaccount.google.com/alert/nt/1684767628484?rfn%3D18%26rfnc%3D1%26eid%3D-1055972160222857024%26et%3D0>
+Вы также можете посмотреть действия, связанные с безопасностью, на этой
+странице:
+https://myaccount.google.com/notifications
+Это сообщение о важных изменениях в вашем аккаунте и сервисах Google.
+© 2023 Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA
